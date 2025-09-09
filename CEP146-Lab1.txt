@@ -1,0 +1,51 @@
+CEP146 - Lab1
+
+Student Name: Allen Wei
+Student ID#: 118455252
+
+Exercise 1: System Hardware Detective (15-20 minutes)
+
+1.	My computer system is Windows 
+
+2. Find and record the following:
+
+⦁	Processor (CPU) brand, model, and number of cores:
+
+Processor	13th Gen Intel(R) Core(TM) i7-1355U, 1700 Mhz, 10 Core(s), 12 Logical Processor(s)
+
+⦁	Total RAM amount and type (DDR4/DDR5)
+
+Manufacturer Part Number           Memory Type SMBIOS Memory Type
+------------ ----------           ---------- ----------------
+SK Hynix     HMAG66DXNSB097N               0               26
+
+⦁	Storage device type (HDD/SSD) and capacity:
+
+Type: Disk 0 (c:)
+Capacity: 954GB
+
+⦁	Operating System version:
+
+OS Name	Microsoft Windows 11 Home
+Version	10.0.26100 Build 26100
+
+3. Analysis Questions:
+
+⦁	Based on your CPU cores, how many tasks can your processor theoretically handle simultaneously?
+
+10 Cores Physical Cores & 12 Logical Processors Logical Processors
+
+⦁	Is your storage primarily HDD or SSD? What are the performance implications?
+
+My storage is primarily SSD (Solid State Drive).
+
+In my own opinion, SSD is more faster than HDD somehow, I google the reason - SSD makes computer faster and more responsive than if it used an HDD. Programs start quickly, files load faster, and overall system performance is smoother.
+
+⦁	How does your RAM amount compare to typical requirements for modern applications?
+
+My current student computer has 16 GB of RAM, I think for most of office working applications or basic computer games are enough to run with, I used to had Apple Mac Mini 2020 which only has 8 GB, I found it was total enough for my daily use as I was working as a travel agent. 
+
+
+
+
+
